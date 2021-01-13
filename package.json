@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-i18n-plus",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "The plugin for validating i18n translations in react applications",
   "repository": {
     "url": "https://github.com/alandre/eslint-plugin-i18n-plus"
